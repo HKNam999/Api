@@ -29,7 +29,7 @@ ADMIN_FILE = "admctv.json"
 BOT_TOKEN = "7612675242:AAGO88RMwRS9mfe9c1SsyHIyMdbUAC9F7HE"
 
 # WebSocket URL
-WEBSOCKET_URL = "ws://157.245.59.82:8000/game_sunwin/ws?id=duy914c&key=khanhduynocrack112"
+WEBSOCKET_URL = "ws://167.172.85.59:8000/game_sunwin/ws?id=duyduy&key=khanhnnasga1"
 
 # Default admin IDs
 DEFAULT_ADMIN_IDS = ["7071414779", "6020088518"]
